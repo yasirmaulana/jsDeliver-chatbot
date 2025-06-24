@@ -4127,10 +4127,10 @@ const un = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Assalamu'alaikum! 👋", "Saya Kak Andris. Konsultan Pendidikan Bintang Pelajar. Bagaimana Saya membantu Anda?"],
+  initialMessages: ["Assalamu'alaikum! 👋", "Saya adalah Hakimi, Saya di sini untuk membantu Anda memahami apa itu kursihikah dan menjelaskan fitur-fitur yang tersedia di Kursi Hikmah."],
   i18n: {
     en: {
-      title: "Chatly - Bintang Pelajar 👋",
+      title: "KursiHikmah 👋",
       subtitle: "Start a chat. We're here to help you 24/7.",
       footer: "",
       getStarted: "New Conversation",
